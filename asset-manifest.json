@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/testing-pyramid/static/css/main.be2b974d.css",
+    "main.js": "/testing-pyramid/static/js/main.d0b572d4.js",
+    "static/js/453.ef2f6af8.chunk.js": "/testing-pyramid/static/js/453.ef2f6af8.chunk.js",
+    "index.html": "/testing-pyramid/index.html",
+    "main.be2b974d.css.map": "/testing-pyramid/static/css/main.be2b974d.css.map",
+    "main.d0b572d4.js.map": "/testing-pyramid/static/js/main.d0b572d4.js.map",
+    "453.ef2f6af8.chunk.js.map": "/testing-pyramid/static/js/453.ef2f6af8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be2b974d.css",
+    "static/js/main.d0b572d4.js"
+  ]
+}
